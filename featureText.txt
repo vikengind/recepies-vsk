@@ -1,2 +1,8 @@
 Testing
+<<<<<<< Updated upstream
 More text added
+=======
+More text added
+still more text added
+Huge text has been added
+>>>>>>> Stashed changes
